@@ -1,0 +1,30 @@
+.editor {
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    resize: none;
+}
+
+.editor__label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.editor__textarea {
+    width: 100%;
+    height: 100%;
+    border: none;
+    outline: none;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+.editor__textarea:focus {
+    border: 1px solid #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
