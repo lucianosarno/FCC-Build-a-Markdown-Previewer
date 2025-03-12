@@ -25,10 +25,10 @@
   "devDependencies": {
     "sass": "^1.32.0"
   },
-  "homepage": "https://yourhomepage.com",
+  "homepage": "https://lucianosarno.github.io/FCC-Build-a-Markdown-Previewer/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/markdown-previewer.git"
+    "url": "https://github.com/lucianosarno/FCC-Build-a-Markdown-Previewer.git"
   },
   "browserslist": {
     "production": [
